@@ -1,0 +1,38 @@
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\MyVMK Pal.exe.config
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\MyVMK Pal.exe
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\MyVMK Pal.pdb
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\Alchemy.dll
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\Awesomium.Core.dll
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\Awesomium.Windows.Forms.dll
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\Newtonsoft.Json.dll
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\Awesomium.Core.xml
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\Awesomium.Windows.Forms.xml
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\Newtonsoft.Json.xml
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\awesomium.dll
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\icudt.dll
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\avcodec-53.dll
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\avformat-53.dll
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\avutil-51.dll
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\libEGL.dll
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\libGLESv2.dll
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\awesomium_process
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\inspector.pak
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\xinput9_1_0.dll
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Release\MyVMK_Pal.AddUser.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Release\MyVMK_Pal.BlackBox.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Release\MyVMK_Pal.Cropped.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Release\MyVMK_Pal.Events.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Release\MyVMK_Pal.Form1.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Release\MyVMK_Pal.Photos.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Release\MyVMK_Pal.Phrases.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Release\MyVMK_Pal.Properties.Resources.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Release\MyVMK_Pal.Settings.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Release\MyVMK_Pal.Stats.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Release\MyVMK_Pal.Users.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Release\MyVMK Pal.csproj.GenerateResource.Cache
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Release\MyVMK Pal.exe
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Release\MyVMK Pal.pdb
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Release\MyVMK Pal.csprojResolveAssemblyReference.cache
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\NBug.dll
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\NBug.pdb
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Release\NBug.xml

@@ -1,0 +1,32 @@
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Debug\MyVMK Pal.exe.config
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.Form1.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.Properties.Resources.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK Pal.csproj.GenerateResource.Cache
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Debug\MyVMK Pal.exe
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Debug\MyVMK Pal.pdb
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK Pal.exe
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK Pal.pdb
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.BlackBox.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.Events.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.Photos.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.Settings.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.Stats.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.Users.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.AddUser.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.Phrases.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.Cropped.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Debug\Alchemy.dll
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK Pal.csprojResolveAssemblyReference.cache
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.ItemSearch.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.Planner.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\bin\Debug\3xSX.dll
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.Newsletter.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.NewsEntry.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.ToolbarButtons.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.Pirates.resources
+C:\Users\Kolya\Documents\Visual Studio 2012\Projects\OVMK Pal\MyVMK Pal v3\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK_Pal.PiratesUsers.resources
+C:\Users\Kolya\Documents\MyVMK Pal\Source\MyVMK Pal\MyVMK Pal\bin\Debug\MyVMK Pal.exe.config
+C:\Users\Kolya\Documents\MyVMK Pal\Source\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK Pal.exe
+C:\Users\Kolya\Documents\MyVMK Pal\Source\MyVMK Pal\MyVMK Pal\obj\Debug\MyVMK Pal.pdb
